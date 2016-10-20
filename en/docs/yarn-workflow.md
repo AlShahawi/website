@@ -10,7 +10,7 @@ step of this workflow simple to understand.
 
 There are a couple things you should know about the basic workflow:
 
-  1. Creating a new project
-  2. Adding/updating/removing dependencies
-  3. Installing/reinstalling your dependencies
-  4. Working with version control (i.e. git)
+  1. [Creating a new project](https://yarnpkg.com/en/docs/creating-a-project)
+  2. [Adding/updating/removing dependencies](https://yarnpkg.com/en/docs/managing-dependencies)
+  3. [Installing/reinstalling your dependencies](https://yarnpkg.com/en/docs/installing-dependencies)
+  4. [Working with version control (i.e. git)](https://yarnpkg.com/en/docs/version-control)
